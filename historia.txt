@@ -1,7 +1,3 @@
-Soy Gonzalo. Estoy probando Git.
-
+Soy Gonzalo probando Git
 Hola.
-
 Chau.
-
-Buenas noches.
