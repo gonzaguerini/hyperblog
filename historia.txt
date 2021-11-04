@@ -1,5 +1,5 @@
-Soy Gonzalo probando Git
+Soy Gonzalo. Estoy probando Git.
 
 Hola.
 
-Chauu.
+Chau.
